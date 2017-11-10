@@ -49,7 +49,7 @@
     "simplejsonconf": "^1.0.5",
     "uglify-js": "^2.8.21",
     "unzip-stream": "^0.1.2",
-    "ws": "^2.2.3",
+    "ws": "^3.3.1",
     "zlibjs": "^0.2.0"
   },
   "devDependencies": {
