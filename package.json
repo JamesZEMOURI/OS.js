@@ -29,7 +29,7 @@
     "run": "node osjs run"
   },
   "dependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^2.0.0",
     "clean-css": "^4.0.10",
     "colors": "^1.1.2",
     "compression": "^1.6.2",
